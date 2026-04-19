@@ -7,7 +7,7 @@ public class HelloWorld {
 }
 
 
-code from developer1:
+code from developer2:
 public class VariablesExample {
     public static void main(String[] args) {
         int number = 10;
@@ -19,3 +19,9 @@ public class VariablesExample {
     }
 }
 
+code from developer3:
+if (x > 15) {
+    System.out.println("Greater");
+} else {
+    System.out.println("Smaller");
+}

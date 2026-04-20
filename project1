@@ -25,3 +25,14 @@ if (x > 15) {
 } else {
     System.out.println("Smaller");
 }
+code from developer 4:
+import java.util.Scanner;
+
+public class InputExample {
+    public static void main(String[] args) {
+        Scanner reader = new Scanner(System.in);
+        System.out.print("Enter your name: ");
+        String name = reader.nextLine();
+        System.out.println("Hello " + name);
+    }
+}

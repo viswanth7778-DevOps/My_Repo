@@ -25,6 +25,7 @@ if (x > 15) {
 } else {
     System.out.println("Smaller");
 }
+
 code from developer 4:
 import java.util.Scanner;
 
@@ -36,3 +37,7 @@ public class InputExample {
         System.out.println("Hello " + name);
     }
 }
+
+code from developer 5:
+String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+System.out.println(cars[0]); // Outputs Volvo
